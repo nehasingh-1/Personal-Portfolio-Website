@@ -9,7 +9,6 @@ Welcome to my **3D Animated Personal Portfolio Website** — a fully responsive,
 ## 🚀 Live Demo
 
 🔗 [View Portfolio Website](https://nehasingh-1.github.io/Personal-Portfolio-Website/)  
-*(Make sure GitHub Pages is enabled in your repo settings)*
 
 ---
 
